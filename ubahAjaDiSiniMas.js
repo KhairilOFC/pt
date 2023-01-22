@@ -11,26 +11,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //Ini Jangan di hapus ya mas Nanti eror//
 //============[ Pembatas ]==========
-global.owner = ["628xx","628xxx"]
-global.ownername = "TOBOT V4" //nama bot
-global.ytname = "YT: Lenttobs" //yt lu kalao ada
+global.owner = ["60109102984","601124024797"]
+global.ownername = "Khairil春" //nama bot
+global.ytname = "YT: gaad" //yt lu kalao ada
 global.socialm = "Ngapa Bro? Donate La bro etdah"
-global.location = "Indonesia, Jatim, Lmh"
-global.dana = "08xxx"
-global.pulsa = "08xxx"
-global.gopay = "08xxx"
+global.location = "Malaysia, Sabah"
+global.dana = "-"
+global.pulsa = "-"
+global.gopay = "-"
 global.donasiowner = "nomorowner tpi gausa kosong kan aja ini gini aja Soalnya ga kepake"
 
 //bot bomdy 
-global.ownernomer = ["628xx","628xx"]
-global.premium = ['628xx'] 
-global.botname = 'TOBOT V4' 
-global.linkz = "https://chat.whatsapp.com/LRCGXKpjpznInErL9t" 
-global.websitex = "https://youtu.be/BwTSHvgjB7w" 
-global.themeemoji = "♥️" 
+global.ownernomer = ["60109102984","601124024797"]
+global.premium = ['60109102984'] 
+global.botname = 'Kao Akebi-Bot愛' 
+global.linkz = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T" 
+global.websitex = "https://linkfly.to/Khairil" 
+global.themeemoji = "🗿" 
 global.packname = "Sticker By"
-global.author = "TOBOT WA\n\n\nMenerima Jasa pembuatan Sticker Gratis\n\n\n\n\n\n\n\nKamu Nanya? Cara Buat sticker Gratis?\n\n\n\n\n\n\n\nNih Nomor Bot:6287" 
-global.wm = "TOBOT AI" 
+global.author = "Kao Akebi-Bot愛\n\n\nMenerima Jasa pembuatan Sticker Gratis\n\n\n\n\n\n\n\nKamu Nanya? Cara Buat sticker Gratis?\n\n\n\n\n\n\n\nNih Nomor Bot:601124024797" 
+global.wm = "Kao Akebi-Bot愛" 
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
