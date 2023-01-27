@@ -1,6 +1,6 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Welcome I'M Lent💖 ~</h1>
+<h1 align="center">~ 💖 Welcome I'M Khairil💖 ~</h1>
 <br>
 <div align="center">
   </a>
@@ -9,7 +9,7 @@
   <p>hidup itu sementara kawan</p>
   <p>Apa Yang Perlu Kamu sombongkan?</p>
 <p>Alwys Bersyukur yaa ><</p>
-<p><a href="https://youtube.com/@lenttobs">- subscribe ya</a><p>
+<p><a href="https://youtube.com/@khairilofc">- subscribe ya</a><p>
   
 </div>
     <div align="center">
@@ -21,9 +21,9 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Maslent</li>
+ <b>Name:</b> Khairil</li>
 <li>
-<b>Umur:</b> 19 YearsOld
+<b>Umur:</b> 14 YearsOld
 </li>
 <li>
 <b>Skils:</b> Html,Js,C++
