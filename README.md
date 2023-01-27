@@ -32,13 +32,10 @@
 <b>Gender:</b> Laki-Laki
 </li>
 <li>
-<b>Id Server</b> 72.838.42
-</li>
-<li>
 <b>Hobby:</b> Mangan,turu,Ngoding
 </li>
 <li>
-<b>Working @:</b> Pt Sejahtra 
+<b>Student @:</b> Smk Kinabutan
 </li>
 <br><br><br>
 </div>
